@@ -9,7 +9,7 @@
 
 body {
   font-family: "Poppins", sans-serif;
-  background: linear-gradient(135deg, #304896);
+  background: linear-gradient(135deg, #708ef0);
   color: #333;
   display: flex;
   flex-direction: column;
@@ -57,7 +57,7 @@ input[type="password"],
 input[type="date"] {
   width: 100%;
   padding: 0.7rem;
-  border: 1px solid #ccc;
+  border: 1px solid #6880f8;
   border-radius: 8px;
   font-size: 1rem;
   transition: 0.3s;
